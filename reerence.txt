@@ -1,0 +1,7 @@
+Mocha youtube channel for refernce:
+    https://www.youtube.com/watch?v=NiFxSBTGZJQ&list=PLolI8AY2AS9bGs9pxrdRD13M2P6FOdswd&index=2
+
+Mocha doc: https://mochajs.org/
+
+CHai doc: https://www.chaijs.com/
+
